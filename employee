@@ -1,0 +1,14 @@
+package com.example.main;
+
+public class employee {
+
+public int empPhone;
+public String empID;
+
+public employee(int phone, String id){
+	empPhone = phone;
+	empID = id;
+	
+}
+
+}
